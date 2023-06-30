@@ -1,3 +1,10 @@
+p{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
@@ -8,14 +15,14 @@ body {
 .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: 1093px;
     margin: 0 auto;
 }
 
 .main-content {
     background-color: #fff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 30px 80px;
 }
 
 /* about styles */
@@ -26,11 +33,21 @@ margin-bottom: 40px;
 
 .about-position{
 font-style: normal;
-font-weight: 700;
-font-size: 14px;
+font-weight: 500;
+font-size: 20px;
 line-height: 17px;
 color: #000000;
 margin-bottom: 20px;
+}
+
+.summary {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
+margin-bottom: 20px;
+margin-top: 38px;
 }
 
 .about-name {
@@ -188,22 +205,23 @@ color: #595959;
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 370px;
+    width: 327px;
+    padding-bottom: 15px;
 }
 
 .photo{
-    width: 370px;
-    margin-bottom: 50px;
+    width: 327px;
+    margin-bottom: 12px;
 }
 
 .contacts, 
 .tech-skills, 
 .soft-skills {
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 .contacts {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .sidebar-title {
@@ -225,7 +243,7 @@ color: #595959;
 }
 
 .tech-skills {
-    margin-bottom: 45px;
+    margin-bottom: 30px;
 }
 
 .contact-link {
@@ -233,7 +251,7 @@ color: #595959;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #565e56;
+    color: #8c9b8c;
 }
 
 .tech-skills-list {
