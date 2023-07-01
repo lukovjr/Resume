@@ -1,4 +1,4 @@
-p{
+p {
   margin: 0px;
   padding: 0px;
 }
@@ -119,15 +119,7 @@ color: #595959;
 
 /* work styles */
 
-.work {
-   
 
-    /* padding: 100px 40px 50px 20px;
-
-    padding: 50px;
-
-    padding: 50px 100px; */
-}
 
 .work-position {
     font-style: normal;
@@ -143,7 +135,7 @@ color: #595959;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #000000;
 }
 
 .period {
@@ -187,7 +179,7 @@ color: #595959;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #FB6D3A;
+    color: #000000;
     margin-bottom: 10px;
 }
 
@@ -287,4 +279,12 @@ color: #595959;
     font-size: 14px;
     line-height: 24px;
     color: #FFFFFF;
+}
+
+.icon {
+    margin-left: -5px;
+}
+
+.project-descr {
+    margin-left: 10px;
 }
