@@ -1,4 +1,4 @@
-p {
+p, h5 {
   margin: 0px;
   padding: 0px;
 }
@@ -62,7 +62,7 @@ margin-bottom: 25px;
 .about-description {
 font-style: normal;
 font-weight: 400;
-font-size: 14px;
+font-size: 16px;
 line-height: 24px;
 color: #595959;
 width: 400px;
@@ -91,7 +91,7 @@ margin-bottom: 10px;
 .projects-item {
 font-style: normal;
 font-weight: bold;
-font-size: 14px;
+font-size: 16px;
 line-height: 24px;
 color: #000000;
 }
@@ -100,7 +100,7 @@ color: #000000;
 .project-link {
 font-style: normal;
 font-weight: normal;
-font-size: 14px;
+font-size: 16px;
 line-height: 24px;
 color: #595959;
 }
@@ -112,7 +112,7 @@ color: #595959;
 .project-bracket {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #000000;
 }
@@ -123,7 +123,7 @@ color: #595959;
 
 .work-position {
     font-style: normal;
-    font-weight: bold;
+    font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #000000;
@@ -132,7 +132,7 @@ color: #595959;
 
 .organization {
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #000000;
@@ -141,16 +141,16 @@ color: #595959;
 .period {
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #000000;
     margin-bottom: 10px;
 }
 
 .line {
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 15px;
     color: #000;
 }
@@ -163,7 +163,7 @@ color: #595959;
 .work-list-item {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #595959;
 }
@@ -171,12 +171,12 @@ color: #595959;
 /* education styles */
 
 .education {
-    margin-top: 45px;
+    margin-top: 35px;
 }
 
 .University {
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #000000;
@@ -185,11 +185,12 @@ color: #595959;
 
 .specialty {
     font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 17px;
     color: #000000;
     margin-bottom: 10px;
+    margin-top: 14px;
 }
 
 /* sidebar styles */
@@ -241,9 +242,9 @@ color: #595959;
 .contact-link {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #8c9b8c;
+    color: #fff;
 }
 
 .tech-skills-list {
@@ -260,7 +261,7 @@ color: #595959;
     color: #fff;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 
@@ -276,7 +277,7 @@ color: #595959;
 .soft-skills-text {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #FFFFFF;
 }
