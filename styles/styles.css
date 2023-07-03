@@ -16,13 +16,13 @@ body {
     display: flex;
     flex-direction: row-reverse;
     width: 1093px;
-    margin: 0 auto;
+    margin: 0 0;
 }
 
 .main-content {
     background-color: #fff;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 30px 80px;
+    padding: 5px 50px;
 }
 
 /* about styles */
